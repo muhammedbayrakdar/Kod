@@ -1,0 +1,2 @@
+# Kod
+Bilgisayar mühendisi
